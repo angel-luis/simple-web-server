@@ -16,10 +16,10 @@ Activate the environment (Windows).
 .venv\Scripts\activate
 ```
 
-Install Flask.
+Install the required dependencies.
 
 ```bash
-pip install Flask
+pip install -r requirements.txt
 ```
 
 Run the server inside the virtual environment.
